@@ -31,9 +31,9 @@ public class TauxDeChangeView extends JFrame{
 
         private JComboBox devise1List = new JComboBox(devise1String);
         private JComboBox devise2List = new JComboBox(devise2String);
-        private JTextField firstNumber  = new JTextField(10);
+        private JTextField firstNumber  = new JTextField(15);
         private JButton calculateButton = new JButton("Calculate");
-        private JTextField calcSolution = new JTextField(10);
+        private JTextField calcSolution = new JTextField(15);
 
 
 

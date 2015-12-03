@@ -50,7 +50,7 @@ import java.awt.event.ActionListener;
 
                     System.out.println(ex);
 
-                    theView.displayErrorMessage("You Need to Enter 2 Integers");
+                    theView.displayErrorMessage("Error");
 
                 }
 
